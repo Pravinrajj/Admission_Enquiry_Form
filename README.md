@@ -81,7 +81,7 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
 </html>
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/0c4d26b9-c98b-4608-a8b4-ae6bdfbb0c44)
+![image](https://github.com/user-attachments/assets/757627eb-97c5-4ec0-a265-59aea879b511)
 
 ## Result:
 An Admission Enquiry Form using HTML that collects student details and message for institutional follow-up is successfully created using semantic and readable HTML.
